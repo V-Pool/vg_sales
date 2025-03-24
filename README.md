@@ -1,8 +1,15 @@
-Analyzing sales of Video games and consoles by genre and launch year?
+# Data Analysis Project
 
+## Overview
 
-videogame data from: https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales
-console data from: https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time
+This project analyzes game sales and consoles sold to determine which gaming consoles are the most successful. It also explores whether specific regions or game genres contribute to console success.
+
+## Data
+
+The dataset used in this project contains information about sales, including details such as title, genre, publisher, developer, critic scores, total sales, and release dates.
+- [videogame data ](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales)
+- [console data ]( https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time)
+
 
 
 
@@ -12,7 +19,7 @@ console data from: https://www.kaggle.com/datasets/tayyarhussain/best-selling-ga
 
 ## Data Dictionary  
 
-This dataset contains information about video game sales, platforms, and console details. Below is a description of each column:  
+This dataset contains information about video game sales, platforms, and console details. Below is a description of each column in the combined dataframe:  
 
 | Column Name              | Data Type  | Description |
 |--------------------------|-----------|-------------|
@@ -32,6 +39,19 @@ This dataset contains information about video game sales, platforms, and console
 | **Console Discontinued** | `int64`   | The year the console was discontinued. |
 | **Consoles Sold**        | `float64` | Total number of units sold for the platform (in millions). |
  
+## Features Utilized for the project
+
+  | Feature        | Description                           |
+  |----------------|---------------------------------------|
+  | Read TWO data files (JSON, CSV, Excel, etc.)| 2 CSV files from kaggle          |
+  | Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.      | Cleaned my data and merged them with pandas. Created 2 new values from the combined dataframes |
+  | Make 3 matplotlib or seaborn (or another plotting library) visualizations to display your data.  | Created different plots of my Data. |
+  | Make at least 1 Pandas pivot table and 1 matplotlib/seaborn plot. Pivot tables are a way to summarize your data and present it easily in a way that isn’t just a graph. They can be useful when combined with graphs. | Made a pivot table and created a seaborn heatmap from the pivot |
+  | Utilize a virtual environment and include instructions in your README on how the user should set one up| Created a venv. |
+  |   Build a custom data dictionary and include it either in your README or as a separate document. This will only apply if your data set does not already have a data dictionary or if you’re building a custom data set. For an example, see the resources to the right.  | Data Dictonary in the README. |
+  | Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit. | In my code, you will find clear notes describing each code block. |
+
+
 ## Virtual Environment Instructions
 
 1. After you have cloned the repo to your machine, navigate to the project 
