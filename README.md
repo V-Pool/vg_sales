@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project analyzes game sales and consoles sold to determine which gaming consoles are the most successful. It also explores whether specific regions or game genres contribute to console success.
+This project analyzes game sales and consoles sold to determine which console was the most successful. It also explores how specific regions or game genres contribute to the overall success.
 
 ## Data
 
-The dataset used in this project contains information about sales, including details such as title, genre, publisher, developer, critic scores, total sales, and release dates.
+The dataset used in this project contains information about sales, including details such as title, genre, publisher, developer, total sales, and release dates.
 - [videogame data ](https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales)
 - [console data ]( https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time)
 
