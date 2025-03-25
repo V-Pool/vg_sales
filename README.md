@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project is my capstone project for CODE:you. The project analyzes game sales and consoles sold to determine which console was the most successful. It also explores how specific regions or game genres contribute to the overall success.
+The project is my capstone project for CODE:you. The project analyzes Video game sales and consoles sold to determine which console was the most successful. It also explores how specific regions or game genres contribute to the overall success.
 
 ## Data
 
