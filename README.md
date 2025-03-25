@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes game sales and consoles sold to determine which console was the most successful. It also explores how specific regions or game genres contribute to the overall success.
+The project is my capstone project for CODE:you. The project analyzes game sales and consoles sold to determine which console was the most successful. It also explores how specific regions or game genres contribute to the overall success.
 
 ## Data
 
@@ -14,8 +14,24 @@ The dataset used in this project contains information about sales, including det
 
 
 
+### Project Structure
+---
 
+The project is organized as follows:
 
+- **Data Exploration:** Jupyter notebook to explore the dataset.
+
+- **Analysis:** Using Python with Pandas to clean the data.
+
+- **Visualizations :** Using Matplotlib and Seaborn to visualize my findings. 
+
+## Getting Started
+
+To run this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/V-Pool/vg_sales`
+2. Install the necessary dependencies: `pip install -r requirements.txt`
+3. Explore the Jupyter notebook.
 
 ## Data Dictionary  
 
