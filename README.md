@@ -25,6 +25,16 @@ The project is organized as follows:
 
 - **Visualizations :** Using Matplotlib and Seaborn to visualize my findings. 
 
+
+### Tools & Libraries Used
+
+- **Python** (data analysis and scripting)
+- **Pandas** (data cleaning and manipulation)
+- **Matplotlib** & **Seaborn** (data visualization)
+- **Jupyter Notebook** (interactive analysis)
+- **Virtual Environment** (dependency management)
+- *(Planned: PostgreSQL, Docker, Tableau for future iterations)*
+
 ## Getting Started
 
 To run this project, follow these steps:
