@@ -85,3 +85,17 @@ Virtual Environment Commands
 | Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
 | Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate` | `deactivate` |
+
+## Conclusion
+
+Through this analysis, I identified the PlayStation 2 as the most successful console, with 155 million units sold and over $1.25 billion in global game sales. The data also revealed that North America and Europe are the largest markets, and that genres like Sports, Action, and Racing significantly contributed to console success. This project demonstrates my ability to clean, merge, and analyze real-world datasets, and to communicate insights through visualizations and clear documentation.
+
+
+## Next Steps/Future Iterations
+
+To further develop this project, I plan to:
+- Migrate the cleaned data into a PostgreSQL database running in Docker.
+- Use Tableau to create interactive dashboards connected to the database.
+- Share Docker and Tableau setup instructions for reproducibility.
+
+Stay tuned for updates as I add these features!
